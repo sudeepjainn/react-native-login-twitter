@@ -23,7 +23,7 @@ Go to [Twitter Apps](https://apps.twitter.com/) to create your app so that you c
 - By default, Twitter won't allow you to grab user's email, so you have to apply for a permission for your app to retrieve user's email
 
 Here is how callbacks would look like:
-![callbacks](https://github.com/clockin/react-native-login-twitter/blob/master/Example/img/callbacks.png?raw=true)
+![callbacks](https://github.com/sup8369/react-native-login-twitter/blob/master/Example/img/callbacks.png?raw=true)
 
 From Twitter Kit 3.3, Fabric is no longer required.
 
@@ -136,7 +136,7 @@ Keeps in mind that all the configure is for your build tools to recognise the fi
 
 - See the `Example` project.
 
-![Sample](https://github.com/clockin/react-native-login-twitter/blob/master/Example/img/android.png?raw=true)
+![Sample](https://github.com/sup8369/react-native-login-twitter/blob/master/Example/img/android.png?raw=true)
 
 ## Todo
 
@@ -144,9 +144,9 @@ The code was extracted from my project so it satisfies my current need, if you n
 
 ## Copyright and license
 
-Code and documentation copyright 2016 Justin Nguyen. Code released under [the MIT license](https://github.com/clockin/react-native-login-twitter/blob/master/LICENSE).
+Code and documentation copyright 2016 Justin Nguyen. Code released under [the MIT license](https://github.com/sup8369/react-native-login-twitter/blob/master/LICENSE).
 
 ## Inspiration
 
 [react-native](http://facebook.github.io/react-native/)
-[react-native-login-google](https://github.com/clockin/react-native-login-google)
+[react-native-login-google](https://github.com/sup8369/react-native-login-google)

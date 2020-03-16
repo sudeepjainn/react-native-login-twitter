@@ -24,13 +24,13 @@
     "social signin",
     "authentication"
   ],
-  "homepage": "https://github.com/clockin/react-native-login-twitter.git",
+  "homepage": "https://github.com/sup8369/react-native-login-twitter.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clockin/react-native-twitter-signin"
+    "url": "https://github.com/sup8369/react-native-twitter-signin"
   },
   "bugs": {
-    "url": "https://github.com/clockin/react-native-twitter-signin/issues"
+    "url": "https://github.com/sup8369/react-native-twitter-signin/issues"
   },
   "dependencies": {},
   "peerDependencies": {
