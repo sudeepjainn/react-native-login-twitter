@@ -6,7 +6,7 @@
  */
 
 #import "AppDelegate.h"
-#import <TwitterKit/TWTRKit.h>
+#import <TwitterKit5/TWTRKit.h>
 #import <React/RCTBundleURLProvider.h>
 #import <React/RCTRootView.h>
 
