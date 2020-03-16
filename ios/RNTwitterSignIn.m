@@ -6,7 +6,7 @@
 //  Copyright © 2016 Golden Owl. All rights reserved.
 //
 
-#import <TwitterKit5/TWTRKit.h>
+#import <TwitterKit/TWTRKit.h>
 #import <React/RCTConvert.h>
 #import <React/RCTUtils.h>
 #import "RNTwitterSignIn.h"
